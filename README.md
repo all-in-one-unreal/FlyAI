@@ -2,4 +2,4 @@
 关于飞行器的AI（非行为树）项目
 
 
-[From](http://www.mediafire.com/file/bzuj8yeewxboy43/FlyAI.zip/file)
+[From](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/11886-updated-5-16-a-i-templates-bot-car-flying-ai?25073-DOWNLOAD-A-I-Templates-Community-Project-Bot-Car-amp-Flying-AI=)
